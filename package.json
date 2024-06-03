@@ -1,0 +1,22 @@
+{
+  "name": "nasa-apod",
+  "version": "1.0.0",
+  "description": "Electron.js interface to NASA Astronomy Picture of the Day",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ispeedonthe405/nasa-apod.git"
+  },
+  "author": "Scott Bruno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ispeedonthe405/nasa-apod/issues"
+  },
+  "homepage": "https://github.com/ispeedonthe405/nasa-apod#readme",
+  "devDependencies": {
+    "electron": "^30.0.9"
+  }
+}
